@@ -1,0 +1,5 @@
+ let aymen1 : number;
+let aymen2 : number;
+aymen1 = 360
+aymen2 =780
+console. (aymen1 + aymen2)
